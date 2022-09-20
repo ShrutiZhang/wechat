@@ -1,0 +1,9 @@
+[1] "lon"              "lat"              "month"            "ma"              
+ [5] "u10.history"      "v10.history"      "si10.history"     "d2m.history"     
+ [9] "t2m.history"      "msdwlwrf.history" "msdwswrf.history" "tp.history"      
+[13] "PM25"             "PM10"             "SO2"              "VOC"             
+[17] "OC"               "CO"               "CO2"              "BC"              
+[21] "NH3"              "NOx"    
+
+Mydata_test_1034_2020.csv 1034站点ERA5气象+MEIC排放
+Mydata_train_1034_13-17 1034站点 ERA5气象+MEIC排放
